@@ -1,2 +1,2 @@
 # hello-world
-Primer repositorio
+Primera rama del repositorio
